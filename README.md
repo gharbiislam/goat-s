@@ -1,4 +1,4 @@
-# 🐐 GOAT’S — Gear Of All Time
+# 🐐 GOAT’S 
 
 **GOAT’S** is a dynamic e-commerce platform dedicated to athletes and fitness enthusiasts.  
 The site offers a curated selection of sportswear, nutrition products, and accessories tailored to different goals like weight gain, fat loss, and beginner fitness programs.
