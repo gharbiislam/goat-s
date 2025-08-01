@@ -39,5 +39,5 @@ This project was completed during the 2024–2025 academic year under the guidan
 ## 👨‍💻 Collaborator
 
 **Islem Gharbi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/islem-gharbii/)  
-🌐 [Portfolio](https://www.behance.net/gallery/229501297/GOATS-Branding-Website-Design)
+🌐 [Protfolio](https://gharbiislam.rf.gd/?i=1)  
+🔗 [Behance](https://www.behance.net/gallery/229501297/GOATS-Branding-Website-Design)
